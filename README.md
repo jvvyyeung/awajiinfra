@@ -1,0 +1,2 @@
+# awajiinfra
+GitHub Pages
